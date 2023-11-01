@@ -1,3 +1,8 @@
 export default function Square() {
-  return <button className="square">Y</button>;
+  return (
+    <>
+      <button className="square">Y</button>
+      <button className="square">Y</button>
+    </>
+  )
 }
