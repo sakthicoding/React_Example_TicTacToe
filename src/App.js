@@ -10,11 +10,13 @@ export default function Board({ value }) {
         <Square />
         <Square />
       </div>
+
       <div className="board-row">
         <Square />
         <Square />
         <Square />
       </div>
+      
       <div className="board-row">
         <Square />
         <Square />
